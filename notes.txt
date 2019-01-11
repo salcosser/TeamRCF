@@ -1,0 +1,11 @@
+stuff to do for the account recovery process:
+-implement sessions and cookies to make the links more secure
+-make the next page work
+---------
+
+ONCE THIS IS DONE:
+-make sure to go through and make it so the errors dontshow 
+-improve the about us page
+
+
+
