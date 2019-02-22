@@ -2,7 +2,7 @@
  session_start();
  $dbhost = "localhost";
   $dbuser = "root";
-  $dbpass = "passwordr99";
+  $dbpass = "password9";
   $dbname = "teamrcf_private";
   $connection = mysqli_connect($dbhost, $dbuser, $dbpass, $dbname);
   // Test if connection occurred.
