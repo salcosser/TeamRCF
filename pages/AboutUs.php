@@ -1,7 +1,7 @@
 <?php 
  $dbhost = "localhost";
   $dbuser = "root";
-  $dbpass = "password";
+  $dbpass = "fakePassword123";
   $dbname = "teamrcf_public";
   $connection = mysqli_connect($dbhost, $dbuser, $dbpass, $dbname);
   // Test if connection occurred.
