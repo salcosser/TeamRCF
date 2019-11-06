@@ -5,7 +5,7 @@ if(isset($cookieMessage)){
 }
  $dbhost = "localhost";
   $dbuser = "root";
-  $dbpass = "cupquakeciller99";
+  $dbpass = "";
   $dbname = "teamrcf_private";
   $connection = mysqli_connect($dbhost, $dbuser, $dbpass, $dbname);
   // Test if connection occurred.
